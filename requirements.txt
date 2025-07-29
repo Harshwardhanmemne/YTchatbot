@@ -7,3 +7,4 @@ google-generativeai
 faiss-cpu
 tiktoken
 sentence-transformers
+langchain-huggingface
